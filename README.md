@@ -9,10 +9,10 @@ Target: Churn (Yes/No)
 
 Project Structure
 customer-churn-prediction/
-├── churn_prediction.py        # Main script for data processing, model training, and evaluation
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-├── .gitignore                 # Files to ignore in Git
+churn_prediction.py        # Main script for data processing, model training, and evaluation
+requirements.txt           # Python dependencies
+README.md                  # Project documentation
+.gitignore                 # Files to ignore in Git
 
 Note: customer_churn_data.csv, churn_model.pkl, and label_encoder.pkl are not included in the repository. Place customer_churn_data.csv in the project folder before running the script.
 Installation
